@@ -5,4 +5,5 @@
 return {
     -- Only place trivial plugins in here?
     'nvim-tree/nvim-web-devicons',
+    'github/copilot.vim',
 }
